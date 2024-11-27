@@ -1,4 +1,4 @@
-name: Sonar analysis
+name: SonarQube Scan
 on:
   push:
     branches:
